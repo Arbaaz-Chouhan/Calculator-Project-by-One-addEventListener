@@ -1,0 +1,43 @@
+body {
+    background: url("https://wallpaperaccess.com/full/202978.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.mainContainer {
+    border: 2px solid black;
+    width: 400px;
+    height: 500px;
+    border-radius: 20px;
+    background-color: black;
+}
+
+Input {
+    width: 393px;
+    height: 100px;
+    text-align: end;
+    font-size: 40px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0px;
+
+}
+
+.button {
+    width: 80px;
+    height: 60px;
+    margin-left: 15px;
+    font-size: 30px;
+    border-radius: 10px;
+    margin-top: 14px;
+}
+
+
+.btn {
+    background-color: cadetblue;
+    color: white;
+}
